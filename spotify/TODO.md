@@ -1,1 +1,2 @@
-[ ] - The "all" playlists need to be deduplicated
+[ ] - 
+[x] - The "all" playlists need to be deduplicated
