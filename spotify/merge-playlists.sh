@@ -2,6 +2,12 @@
 
 # set -x 
 
+# Ensure that at least two arguments are passed to the script
+if [ $# -lt 2 ]; then
+    echo "Need at least two files to merge!"
+    exit 1
+fi
+
 unset TEMPDIR
 trap '[ "$TEMPDIR" ] && rm -rf "$TEMPDIR"' EXIT
 TEMPDIR=$(mktemp -d "${TMPDIR:-/tmp}/XXXXXXXXXXXXXXXXXXXXXXXXXXXXX") ||
