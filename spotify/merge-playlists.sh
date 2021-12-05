@@ -19,9 +19,9 @@ echo "Writing output to: ${!#}"
 # ToDo: Compare headers from all files, generate error if mismatched
 HEADER=$(head -n 1 $1)
 
-# Output all text after the first line of each file,
-# Sort the output by artist and title, skipping any duplicate lines
-# tail -q -n +2 "$@" | sort -d -u --field-separator=";" --key=2,2 --key=1,1 | sed "1i $HEADER"
-
-tail -q -n +2 "$@" | sort -d -u --field-separator=";" --key=2,2 --key=1,1 | sed "1i $HEADER" > $TEMPDIR/sorted.csv
+# Write the CSV header out to the temp file, strip out all of the CSV
+# data from the input files, sort it and remove duplicates, then write
+# it to the temp file.
+echo $HEADER > $TEMPDIR/sorted.csv
+tail -q -n +2 "$@" | sort -d -u --field-separator=";" --key=2,2 --key=1,1 >> $TEMPDIR/sorted.csv
 cat $TEMPDIR/sorted.csv > ${!#}
