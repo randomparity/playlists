@@ -1,6 +1,6 @@
 ﻿title,artist,album,isrc,platform,trackId,duration,addedDate,addedBy,url
 "I Ran (So Far Away)","A Flock Of Seagulls","Grand Theft Auto Vice City OST (Greatest Hits)",GBAHK0500042,spotify,2Rwux3fRY1xxl167muIo93,220s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2Rwux3fRY1xxl167muIo93
-"Dancing Queen",ABBA,Arrival,SEAYD7601020,spotify,4NtUY5IGzHCaqfZemmAu56,231s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4NtUY5IGzHCaqfZemmAu56
+"Dancing Queen",ABBA,Arrival,SEAYD7601020,spotify,0GjEhVFGZW8afUYGChu3Rr,230s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr
 "Back In Black",AC/DC,"Back In Black",AUAP08000046,spotify,08mG3Y1vljYA6bvDt4Wqkj,255s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj
 "You Shook Me All Night Long",AC/DC,"Back In Black",AUAP08000047,spotify,2SiXAy7TuUkycRVbbWDEpo,210s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo
 "Highway to Hell",AC/DC,"Highway to Hell",AUAP07900028,spotify,2zYzyRzz6pRmhPzyfMEC8s,208s,"2021-08-20 19:49",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s
@@ -21,8 +21,8 @@ Southbound,"Allman Brothers Band",Dreams,USA027300050,spotify,4Um5JeJZ4GeRb8JVju
 "Best Day Of My Life","American Authors","Oh, What A Life",USUM71302187,spotify,5Hroj5K7vLpIG4FNCRIjbP,194s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP
 "Good To Be Alive (Hallelujah)","Andy Grammer","Magazines Or Novels (Deluxe Edition)",USSC61500058,spotify,3gHc5XTAywdFQUsHS6DD7G,189s,"2022-02-14 19:40",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3gHc5XTAywdFQUsHS6DD7G
 "Honey, I'm Good.","Andy Grammer","Magazines Or Novels",USZXT1400267,spotify,4MflGTO2ZTcSQ12bWcyRgI,199s,"2022-05-30 00:15",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4MflGTO2ZTcSQ12bWcyRgI
-"Freeway of Love - Single Mix","Aretha Franklin","Who's Zoomin' Who? (Expanded Edition)",USAR10200592,spotify,6Uhmf736HHPm5i9wrNyZuR,247s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6Uhmf736HHPm5i9wrNyZuR
 Respect,"Aretha Franklin","I Never Loved a Man the Way I Love You",USAT20801240,spotify,7s25THrKz86DM225dOYwnr,148s,"2022-09-10 16:43",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7s25THrKz86DM225dOYwnr
+"Freeway Of Love","Aretha Franklin","Who's Zoomin' Who? (Expanded Edition)",USAR18500023,spotify,0lpIVCLNQRBKffcRRNrHyh,352s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0lpIVCLNQRBKffcRRNrHyh
 "Turn up the Radio",Autograph,"Sign In Please",USRC18404644,spotify,7u0b4DthVvd2F2EzCiOx0Z,279s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7u0b4DthVvd2F2EzCiOx0Z
 "Pick Up the Pieces","Average White Band",AWB,USAT20106483,spotify,2x1LQq8lsUzAA2wNj8yjC9,240s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9
 "Roll On Down The Highway","Bachman-Turner Overdrive","Not Fragile",USPR37408027,spotify,05mzctclS0ZqqTLEiDIGkt,238s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/05mzctclS0ZqqTLEiDIGkt
@@ -33,10 +33,11 @@ Sabotage,"Beastie Boys","Ill Communication",USCA29400020,spotify,0Puj4YlTm6xNzDD
 "Stayin' Alive - From ""Saturday Night Fever"" Soundtrack","Bee Gees",Greatest,NLF057790034,spotify,3mRM4NM8iO7UBqrSigCQFH,285s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH
 "Brand New","Ben Rector","Brand New",QMEMQ1500031,spotify,07m8PuXxxv5J4qPEDq6ZkK,244s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/07m8PuXxxv5J4qPEDq6ZkK
 Drive,"Ben Rector",Magic,QZCPW1800029,spotify,1Yqovy9hlOeV91IY3Bhcf2,197s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1Yqovy9hlOeV91IY3Bhcf2
+"Crazy In Love (feat. Jay-Z)","Beyoncé, JAY-Z","Dangerously In Love",USSM10305425,spotify,5IVuqXILoxVWvWEPm82Jxr,236s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr
 "In A Big Country","Big Country","The Crossing",GBF088300765,spotify,1tAFvq63jO3n9WaDCZPJNh,284s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1tAFvq63jO3n9WaDCZPJNh
 "Lovely Day","Bill Withers",Menagerie,USSM10207844,spotify,0bRXwKfigvpKZUurwqAlEh,255s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh
-"White Wedding - Pt. 1","Billy Idol","Billy Idol",USCH30100008,spotify,1gzIbdFnGJ226LTl0Cn2SX,252s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1gzIbdFnGJ226LTl0Cn2SX
 "Rebel Yell","Billy Idol","Rebel Yell",USCH38400024,spotify,4TIJ7zSBNejpoIPaWpWRKc,289s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc
+"White Wedding - Live On VH1 Storytellers, New York City, New York/2001","Billy Idol","VH1 Storytellers (Live)",USNPD0600690,spotify,6lkCnFeziGpvbsMcAB2DoR,228s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6lkCnFeziGpvbsMcAB2DoR
 "Dancing with Myself - 2001 Remaster","Billy Idol, Generation X",Anthology,GBAYK0100065,spotify,7fJnj6rso7N95oztvsxrWD,227s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7fJnj6rso7N95oztvsxrWD
 "I Go to Extremes","Billy Joel","Storm Front",USSM18900214,spotify,16LYB0chkPiblx33djiNTt,263s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/16LYB0chkPiblx33djiNTt
 "We Didn't Start the Fire","Billy Joel","Storm Front",USSM18900217,spotify,3Cx4yrFaX8CeHwBMReOWXI,288s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI
@@ -69,8 +70,6 @@ Runaway,"Bon Jovi","Bon Jovi",USPR39402231,spotify,0X1sqQ652p1sceKM2nJlIJ,231s,"
 "Foreplay / Long Time",Boston,Boston,USSM17600873,spotify,39C5FuZ8C8M0QI8CrMsPkR,468s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/39C5FuZ8C8M0QI8CrMsPkR
 "Don't Look Back",Boston,"Don't Look Back",USSM10002502,spotify,4QySZtWymRGNgrwxZOODKF,360s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4QySZtWymRGNgrwxZOODKF
 Motownphilly,"Boyz II Men","The Best Of Boyz II Men 20th Century Masters The Millennium Collection",USMO19190022,spotify,4wDSLkTUIpRsn3UbCzW9wV,235s,"2021-09-24 01:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4wDSLkTUIpRsn3UbCzW9wV
-"Friends in Low Places","Brooks Jefferson","Strummin' On Garth",uscgj1501668,spotify,4OMj5QWwvYSUs9O0hsymts,259s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4OMj5QWwvYSUs9O0hsymts
-"Ain't Goin' Down (Til the Sun Comes Up)","Brooks Jefferson","Strummin' On Garth",uscgj1501680,spotify,5zkaDGUM3xx5PnzfUbY4jY,271s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5zkaDGUM3xx5PnzfUbY4jY
 "Born in the U.S.A.","Bruce Springsteen","Born In The U.S.A.",USSM18400406,spotify,0dOg1ySSI7NkpAe89Zo0b9,279s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9
 "Glory Days","Bruce Springsteen","Born In The U.S.A.",USSM18400415,spotify,2Y90nL1ohB4sgYELDs7uNx,255s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx
 "Thunder Road","Bruce Springsteen","Born To Run",USSM19904335,spotify,56lhDZNQ5J47aog6mGKeGk,289s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk
@@ -87,6 +86,7 @@ Convoy,"C.W. McCall","C.W. McCall's Greatest Hits",USPR37500034,spotify,6dGWq08L
 "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)","Calvin Harris, Pharrell Williams, Katy Perry, Big Sean, Funk Wav","Funk Wav Bounces Vol.1",GBARL1700772,spotify,5bcTCxgc7xVfSaMV3RuVke,223s,"2021-11-24 23:07",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke
 "Safe And Sound","Capital Cities","In A Tidal Wave Of Mystery (Deluxe Edition)",USCA21203108,spotify,6Z8R6UsFuGXGtiIxiD8ISb,193s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb
 Finally,"CeCe Peniston",Finally,USWWW0130034,spotify,0uqvSVhGgQTIdj9G51vhvv,245s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv
+Ridin',"Chamillionaire, Krayzie Bone","The Sound of Revenge",USUM70503088,spotify,3kZoay4ANo86ehb6s4RwS9,303s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3kZoay4ANo86ehb6s4RwS9
 Surrender,"Cheap Trick","Heaven Tonight",USSM19802566,spotify,2ccUQnjjNWT0rsNnsBpsCA,254s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA
 "I Want You to Want Me","Cheap Trick","In Color",USSM19802522,spotify,1JkZg3eMQTmTn93E8Yd3UL,191s,"2022-09-10 16:43",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL
 Believe,Cher,Believe,GBAHT9803002,spotify,2goLsvvODILDzeeiT4dAoR,239s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR
@@ -97,9 +97,9 @@ Believe,Cher,Believe,GBAHT9803002,spotify,2goLsvvODILDzeeiT4dAoR,239s,"2021-04-1
 "Ride Like the Wind","Christopher Cross","Christopher Cross",USWB19901342,spotify,7gUMShP1l20tC0xf17Zplk,276s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk
 "No Particular Place To Go","Chuck Berry","St. Louis To Liverpool",USMC16419960,spotify,3qt3ybU6MScMxMKL2TYBvt,163s,"2021-12-21 23:00",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt
 Tubthumping,Chumbawamba,Tubthumper,USUR19700175,spotify,5YScXJKtefsgdskIy60N7A,279s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5YScXJKtefsgdskIy60N7A
-"Every Teardrop Is a Waterfall",Coldplay,"Mylo Xyloto",GBAYE1101193,spotify,2U8g9wVcUu9wsg6i7sFSv8,241s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8
 "Adventure of a Lifetime",Coldplay,"A Head Full of Dreams",GBAYE1500981,spotify,69uxyAqqPIsUyTO8txoP2M,264s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M
 "Speed of Sound",Coldplay,X&Y,GBAYE0500602,spotify,7clUVcSOtkNWa58Gw5RfD4,288s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7clUVcSOtkNWa58Gw5RfD4
+"Every Teardrop Is a Waterfall",Coldplay,"Every Teardrop Is a Waterfall",GBAYE1100774,spotify,5lRG8ZTNtyLUO1wzh62TWv,243s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5lRG8ZTNtyLUO1wzh62TWv
 Shine,"Collective Soul","Hints, Allegations & Things Left Unsaid",USAT29300016,spotify,6emdJW80SbDBMuHci8PJJn,306s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6emdJW80SbDBMuHci8PJJn
 "Fantastic Voyage",Coolio,"It Takes a Thief",USTB10250055,spotify,3QlTzofanSqDWywxEzGGE2,334s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3QlTzofanSqDWywxEzGGE2
 "Travelin' Band","Creedence Clearwater Revival","Cosmo's Factory (Expanded Edition)",USC4R0817628,spotify,0INUNNYfsp4qr6kJdY46mY,127s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0INUNNYfsp4qr6kJdY46mY
@@ -110,10 +110,12 @@ Shine,"Collective Soul","Hints, Allegations & Things Left Unsaid",USAT29300016,s
 "She Bop","Cyndi Lauper","She's So Unusual",USSM18300651,spotify,2FAL6hxj5Qxuj0kWOkEOsF,229s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2FAL6hxj5Qxuj0kWOkEOsF
 "Girls Just Want to Have Fun","Cyndi Lauper","She's So Unusual",USSM18300548,spotify,4y1LsJpmMti1PfRQV9AWWe,238s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe
 "I Drove All Night","Cyndi Lauper","A Night To Remember",USSM10020723,spotify,3J0AoQhAufniMrznCRJASD,252s,"2022-09-10 16:43",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3J0AoQhAufniMrznCRJASD
+"Around the World","Daft Punk",Homework,GBDUW0600009,spotify,1pKYYY0dkg23sQQXi0Q5zN,430s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN
 "You Make My Dreams (Come True)","Daryl Hall & John Oates",Voices,USRC10301828,spotify,4o6BgsqLIBViaGVbx5rbRk,191s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk
 "Let's Dance - 2018 Remaster","David Bowie","Let's Dance (2018 Remaster)",USJT11700482,spotify,3ix6K4wZY29bCujrSznwFZ,458s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ
 "Yankee Rose","David Lee Roth","Eat 'Em and Smile",USWB10101440,spotify,5Fh5nmTu6TEk0ze8QAU7og,235s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5Fh5nmTu6TEk0ze8QAU7og
 "California Girls","David Lee Roth","Crazy from the Heat",USWB10102431,spotify,4H3vuLX59XPqdtTpIesGyS,172s,"2022-05-30 00:15",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4H3vuLX59XPqdtTpIesGyS
+"Just Like Paradise","David Lee Roth",Skyscraper,USWB10100542,spotify,5ZY7Gug850kv4heJcWZGHM,243s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5ZY7Gug850kv4heJcWZGHM
 "You Spin Me Round (Like a Record)","Dead Or Alive",Youthquake,GBBBM8502013,spotify,7uHO4AmKtyGa5v5fsElGoC,200s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7uHO4AmKtyGa5v5fsElGoC
 "Space Truckin'","Deep Purple","Machine Head",USWB19903565,spotify,44lAQJzaUI6hcpHEFqp2mJ,274s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/44lAQJzaUI6hcpHEFqp2mJ
 "Highway Star","Deep Purple","Machine Head",USWB19901165,spotify,4gVTozEmzwAUXpwj3jEetX,369s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4gVTozEmzwAUXpwj3jEetX
@@ -149,7 +151,7 @@ September,"Earth, Wind & Fire",September,USSM17800845,spotify,7Cuk8jsPPoNYQWXK9X
 "Cold Heart - PNAU Remix","Elton John, Dua Lipa, PNAU","Cold Heart (PNAU Remix)",GBUM72104705,spotify,6zSpb8dQRaw0M1dK8PBwQz,203s,"2022-06-19 17:38",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz
 "Viva Las Vegas","Elvis Presley","Elvis' Gold Records, Vol. 4",USRC16301778,spotify,5Q7ayTarb9Tpmkik5cVMug,145s,"2022-04-05 07:45",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5Q7ayTarb9Tpmkik5cVMug
 "A Little Less Conversation - JXL Radio Edit Remix","Elvis Presley, Junkie XL","Elvis 30 #1 Hits",USRC10200288,spotify,7FNIEfhhBlzsZFxCwI5Nwh,213s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7FNIEfhhBlzsZFxCwI5Nwh
-"A Little Respect",Erasure,"The Innocents",GBAJH0000207,spotify,2RVQIq7bLi4Eu6xHPyQ46t,213s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t
+"A Little Respect - Pop! Version",Erasure,"Pop! The First 20 Hits",GBAJH9900207,spotify,7wPe5bYpmJtOCwfbCEEaEe,212s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7wPe5bYpmJtOCwfbCEEaEe
 "The Final Countdown",Europe,"The Final Countdown (Expanded Edition)",USSM18600196,spotify,3MrRksHupTVEQ7YbA0FsZK,310s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK
 "The Way",Fastball,"All The Pain Money Can Buy",USHR19713001,spotify,7IsEXPk6qqt30FfQv4SZMa,257s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa
 "Who Are You","Fifth Harmony","Better Together",USSM11305322,spotify,6SghBI1kud4USU9UAJkWR9,237s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6SghBI1kud4USU9UAJkWR9
@@ -165,6 +167,7 @@ Cruise,"Florida Georgia Line","Here's To The Good Times",USUM71207991,spotify,0i
 Everlong,"Foo Fighters","The Colour And The Shape",USRW29600011,spotify,5UWwZ5lm5PKu6eKsHAGxOk,251s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk
 Walk,"Foo Fighters","Wasting Light",USRW31100002,spotify,76Je5Wklky23mVoxiRszcN,256s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/76Je5Wklky23mVoxiRszcN
 "Stacy's Mom","Fountains Of Wayne","Welcome Interstate Managers",USESC0300016,spotify,27L8sESb3KR79asDUBu8nW,198s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW
+"December, 1963 (Oh What a Night!)","Frankie Valli & The Four Seasons","Who Loves You",USRH10175221,spotify,1hQFF33xi8ruavZNyovtUN,197s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN
 "Take Me Out","Franz Ferdinand","Franz Ferdinand",USSM10402947,spotify,6ooluO7DiEhI1zmK94nRCM,237s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6ooluO7DiEhI1zmK94nRCM
 "All Right Now",Free,"Fire And Water",GBAAN7000001,spotify,1gcESexgftSuLuML57Y69q,331s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1gcESexgftSuLuML57Y69q
 "Invisible Touch - 2007 Remaster",Genesis,"Invisible Touch",GBAAA0700779,spotify,0xpBr84T3FTm9j4D1MdPtk,208s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk
@@ -187,7 +190,7 @@ Shotgun,"George Ezra","Staying at Tamara's",GBARL1701372,spotify,4ofwffwvvnbSkrM
 "Jump in the Line","Harry Belafonte","Jump Up Calypso",USRC16607550,spotify,1zW2csx1vVJrKfvDrFQNVt,222s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt
 "As It Was","Harry Styles","As It Was",USSM12200612,spotify,4LRPiXqCikLlN15c3yImP7,167s,"2022-07-14 00:34",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7
 Barracuda,Heart,"Little Queen",USSM10009075,spotify,4KfSdst7rW39C0sfhArdrz,262s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz
-"Route 101","Herb Alpert",Fandango,QM4221500463,spotify,1Tf0xSQyh7O1bsgwjNRkCl,202s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1Tf0xSQyh7O1bsgwjNRkCl
+"Route 101","Herb Alpert","Passion Dance",GBAZH9700066,spotify,2heVE6EX17y0bYUeNHtowv,275s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2heVE6EX17y0bYUeNHtowv
 Rockit,"Herbie Hancock","Future Shock",USSM19804808,spotify,2nWHzbBWBOePUvAImQv2So,325s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So
 "Jump Around","House Of Pain","House of Pain (Fine Malt Lyrics)",USTB10300119,spotify,3TZwjdclvWt7iPJUnMpgcs,215s,"2022-03-10 20:58",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3TZwjdclvWt7iPJUnMpgcs
 "The Power Of Love","Huey Lewis & The News","Greatest Hits: Huey Lewis And The News",USCA20600519,spotify,2olVm1lHicpveMAo4AUDRB,234s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB
@@ -200,6 +203,7 @@ Believer,"Imagine Dragons",Evolve,USUM71700626,spotify,0pqnGHJpmpxLKifKRmU6WP,20
 "Walking The Wire","Imagine Dragons",Evolve,USUM71704648,spotify,1y3bE5i57eUm3hfLAc7h08,233s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1y3bE5i57eUm3hfLAc7h08
 Radioactive,"Imagine Dragons","Night Visions",USUM71201074,spotify,4G8gkOterJn0Ywt6uhqbhp,187s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp
 "On Top Of The World","Imagine Dragons","Night Visions (Deluxe)",USUM71201073,spotify,6KuHjfXHkfnIjdmcIvt9r0,190s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0
+Drive,Incubus,"Make Yourself",USSM19911007,spotify,7nnWIPM5hwE3DaUBkvOIpy,232s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy
 "Philadelphia Freedom (Kids Sing)","Infinite Hit Band","Kids Party Hits (Kids Sing Elton John)",USA370952999,spotify,4ywu9v7V7b4DljPRmNgJi3,207s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4ywu9v7V7b4DljPRmNgJi3
 "What's on Your Mind (Pure Energy)","Information Society","Information Society",USRE10100513,spotify,0sId1fkKRfPlyMMOSVShng,276s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0sId1fkKRfPlyMMOSVShng
 "Suicide Blonde",INXS,X,AUWC41010191,spotify,3DPyS3odFIWQ3E2IFqHEdG,232s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3DPyS3odFIWQ3E2IFqHEdG
@@ -207,7 +211,7 @@ Radioactive,"Imagine Dragons","Night Visions",USUM71201074,spotify,4G8gkOterJn0Y
 "Theme From Shaft - Remastered","Isaac Hayes","Shaft (Deluxe Edition)",USC4R0920520,spotify,7KMILVTQdVS4zQ8ilTcpRO,279s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO
 "(Your Love Keeps Lifting Me) Higher & Higher","Jackie Wilson","The Ultimate Jackie Wilson",USBWC0110047,spotify,4TBBPZks71c60whhq0PgdP,181s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP
 "Running on Empty","Jackson Browne","Running on Empty / Nothing but Time (Digital 45)",USEE10900486,spotify,6aqm56xP40foYBBtAWWrnY,292s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6aqm56xP40foYBBtAWWrnY
-"Traffic Jam","James Taylor","James Taylor Live",USSM10021537,spotify,3QIksrsEQrP9UXhPxNxSG0,130s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3QIksrsEQrP9UXhPxNxSG0
+"Traffic Jam","James Taylor",JT,USSM17700899,spotify,3vr78UtsASit0Iwhps8HnE,118s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3vr78UtsASit0Iwhps8HnE
 "Been Caught Stealing","Jane's Addiction","Ritual De Lo Habitual",USWB10902573,spotify,51Gkc1TxvyQ9K8y0pQRmQM,213s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/51Gkc1TxvyQ9K8y0pQRmQM
 Nasty,"Janet Jackson",Control,USAM19500847,spotify,07OzC5JlcaDwEkzWmvqp6y,243s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/07OzC5JlcaDwEkzWmvqp6y
 Escapade,"Janet Jackson","Rhythm Nation 1814",USAM18900717,spotify,5HAv1Ckfe50DUjv8ghwTrz,284s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5HAv1Ckfe50DUjv8ghwTrz
@@ -216,15 +220,14 @@ Escapade,"Janet Jackson","Rhythm Nation 1814",USAM18900717,spotify,5HAv1Ckfe50DU
 "DEAF (who are you)","Jessie Reyez","BEFORE LOVE CAME TO KILL US",USUG12000812,spotify,0ASJErUz9Jft45bkkfNAXq,173s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0ASJErUz9Jft45bkkfNAXq
 "Right Here Right Now","Jesus Jones",Doubt,GBAYE9000326,spotify,3fcGGP62sllcNEhuFJVYeC,189s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC
 "Are You Gonna Be My Girl",Jet,"Get Born",USEE10340526,spotify,305WCRhhS10XUcH6AEwZk6,214s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6
-"Walkin' Back to Georgia","Jim Croce","You Don't Mess Around With Jim",GBAJE0604318,spotify,51ueZKM83MTRv9rgiDfI6Y,171s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/51ueZKM83MTRv9rgiDfI6Y
 "Bad, Bad Leroy Brown","Jim Croce","Life & Times",GBAJE7100650,spotify,1O0xeZrBDbq7HPREdmYUYK,182s,"2022-08-10 17:00",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK
+"You Don’t Mess Around With Jim - Live","Jim Croce","Have You Heard: Jim Croce Live",USPSZ0800287,spotify,4eCfDs3vWxkwRVcmHxraNL,166s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4eCfDs3vWxkwRVcmHxraNL
 Fire,"Jimi Hendrix","Are You Experienced",USQX90900772,spotify,5LI7PoHEolR8plrf3I16sq,164s,"2022-01-14 04:43",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5LI7PoHEolR8plrf3I16sq
 "The Middle","Jimmy Eat World","Bleed American",USDW10110256,spotify,6GG73Jik4jUlQCkKg9JuGO,166s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO
 "Feelin' Alright","Joe Cocker","With A Little Help From My Friends",USAM16900372,spotify,0Jl5bIEve3A4axcjY3EgDZ,251s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0Jl5bIEve3A4axcjY3EgDZ
 "Rocky Mountain Way","Joe Walsh","The Smoker You Drink, The Player You Get",USMC17344516,spotify,2XHjFJVXYlEzoDvN82h8s5,315s,"2021-09-30 19:40",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2XHjFJVXYlEzoDvN82h8s5
 "Head & Heart (feat. MNEK)","Joel Corry, MNEK","Head & Heart (feat. MNEK)",UK4ZF2000305,spotify,6cx06DFPPHchuUAcTxznu9,166s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9
 "Take Me Home, Country Roads","John Denver","The John Denver Collection, Vol 1: Take Me Home Country Roads",USA370529726,spotify,39q7xibBdRboeMKUbZEB6g,198s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/39q7xibBdRboeMKUbZEB6g
-Centerfield,"John Fogerty","Centerfield - 25th Anniversary",USDW10110142,spotify,2iRfjwzPsooCskZrrlsgcC,231s,"2022-09-10 16:43",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2iRfjwzPsooCskZrrlsgcC
 "Belief - Live at the Nokia Theatre, Los Angeles, CA - December 2007","John Mayer","Where the Light Is: John Mayer Live In Los Angeles",USSM10801220,spotify,2vFYhHS8ycUITvZYownH5K,363s,"2022-09-10 16:43",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2vFYhHS8ycUITvZYownH5K
 "Lonely Ol' Night","John Mellencamp",Scarecrow,USJM18500004,spotify,0TBMx8wWJkwSEVSOJUn21e,225s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0TBMx8wWJkwSEVSOJUn21e
 "Authority Song","John Mellencamp",Uh-HUH!,USJM18300003,spotify,38Lf9Im0jQhAaKx8ehQM1S,229s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/38Lf9Im0jQhAaKx8ehQM1S
@@ -255,7 +258,7 @@ Roar,"Katy Perry","PRISM (Deluxe)",USUM71308669,spotify,6F5c58TMEs1byxUstkzVeM,2
 "She Thinks My Tractor's Sexy","Kenny Chesney","Everywhere We Go",USBN19800147,spotify,3QV7NYkrmV0Q0IHdFJw9hO,248s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO
 "Danger Zone - From ""Top Gun"" Original Soundtrack","Kenny Loggins","Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",USSM18600108,spotify,34x6hEJgGAOQvmlMql5Ige,215s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige
 Footloose,"Kenny Loggins","Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",USSM18400107,spotify,6W2VbtvMrDXm5vYeB7amkO,221s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO
-"I'm Alright - Theme from ""Caddyshack""","Kenny Loggins","Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",USSM18000120,spotify,7vJnM5FUcOV3xAKJHSSUWj,226s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7vJnM5FUcOV3xAKJHSSUWj
+"I'm Alright - Live","Kenny Loggins",Alive,USSM18000696,spotify,75zzfOvmT9Ok6SPoibAYsg,309s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/75zzfOvmT9Ok6SPoibAYsg
 "Kids In America","Kim Wilde","Kim Wilde",GBAYE8100054,spotify,1YGZyfvdgZxzipWoWYVKxi,206s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1YGZyfvdgZxzipWoWYVKxi
 "Rock And Roll All Nite",KISS,"Dressed To Kill",USPR37509157,spotify,6KTv0Z8BmVqM7DPxbGzpVC,169s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC
 "Detroit Rock City",KISS,"Double Platinum",USPR37707201,spotify,2jz6rWGqVCYsymwxGoaON4,216s,"2021-12-21 23:00",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2jz6rWGqVCYsymwxGoaON4
@@ -286,9 +289,9 @@ Funkytown,"Lipps Inc.","Shrek 2 (Original Motion Picture Soundtrack)",USPR379024
 "Can't Hold Us (feat. Ray Dalton)","Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Ray Dalton","The Heist",GMM881200021,spotify,3bidbhpOYeV4knp8AIu8Xn,258s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn
 Vogue,Madonna,"Celebration (double disc version)",USWB10903600,spotify,27QvYgBk0CHOVHthWnkuWt,317s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt
 "Into the Groove",Madonna,"Celebration (double disc version)",USWB10903605,spotify,2m0M7YqCy4lXfedh18qd8N,285s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2m0M7YqCy4lXfedh18qd8N
-Holiday,Madonna,"Madonna (Reissue)",USWB18300013,spotify,3ibAzRj9JnowdoLkyllk3n,232s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n
 "Open Your Heart",Madonna,"Celebration (double disc version)",USWB10903610,spotify,3kme5Qos8h04yrKxsgur79,229s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3kme5Qos8h04yrKxsgur79
 "Ray of Light",Madonna,"Ray of Light",USWB19701738,spotify,4Fpsa3pYc3gozrxHRRPvR6,321s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6
+Holiday,Madonna,"The Immaculate Collection",USWB19903785,spotify,4cUSgvW6wlxqzzxE3P4voV,246s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4cUSgvW6wlxqzzxE3P4voV
 "Lean On","Major Lazer, MØ, DJ Snake","Peace Is The Mission (Extended)",QMUY41500008,spotify,1Lim1Py7xBgbAkAys3AGAG,177s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG
 "Do Wah Diddy Diddy","Manfred Mann","Mann Made Hits",GBAYE6400100,spotify,7ko2240lyr2DngGin6Fx37,143s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7ko2240lyr2DngGin6Fx37
 "Uptown Funk (feat. Bruno Mars)","Mark Ronson, Bruno Mars","Uptown Special",GBARL1401524,spotify,32OlwWuMpZ6b0aN2RZOeMS,270s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS
@@ -338,6 +341,7 @@ Maniac,"Michael Sembello","Flashdance (Original Soundtrack From The Motion Pictu
 "Let My Love Open The Door","Pete Townshend","Empty Glass",GBUM71500440,spotify,0otlwsD3mSogk7VJCTp6Kg,165s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0otlwsD3mSogk7VJCTp6Kg
 "Solsbury Hill","Peter Gabriel","Peter Gabriel 1: Car (Remastered Version)",GBCPB0900635,spotify,1CM1wOqD2AIjt2MWd31LV2,261s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1CM1wOqD2AIjt2MWd31LV2
 "Sledgehammer - 2012 Remaster","Peter Gabriel","So (25th Anniversary Deluxe Edition)",GBCPB1200864,spotify,4AUS8KNz7zX8XFu9L38GT0,312s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4AUS8KNz7zX8XFu9L38GT0
+"Happy - From ""Despicable Me 2""","Pharrell Williams","G I R L",USQ4E1300686,spotify,60nZcImufyMA1MKQY3dcCH,233s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH
 "In The Air Tonight - 2015 Remastered","Phil Collins","Face Value (Deluxe Editon)",USAT21502120,spotify,18AXbzPzBS8Y3AkgSxzJPb,336s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb
 "Take Me Home - 2016 Remaster","Phil Collins","No Jacket Required (2016 Remaster)",USRH11600252,spotify,2s6wCS3vDZFPY9NOTlPXJZ,354s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2s6wCS3vDZFPY9NOTlPXJZ
 "Sussudio - 2016 Remaster","Phil Collins","No Jacket Required (2016 Remaster)",USRH11600243,spotify,4qM461TqtpnP4GLRIXwEnW,263s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW
@@ -356,7 +360,6 @@ Home,"Phillip Phillips","The World From The Side Of The Moon (Deluxe)",QMTM61200
 "Crazy Little Thing Called Love - Remastered 2011",Queen,"The Game (Deluxe Remastered Version)",GBUM71029612,spotify,35ItUJlMtjOQW3SSiTCrrw,163s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw
 "Don't Stop Me Now - Remastered 2011",Queen,"Jazz (Deluxe Remastered Version)",GBUM71029610,spotify,7hQJA50XrCWABAu5v6QZ4i,209s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i
 "Bohemian Rhapsody - Remastered 2011",Queen,"A Night At The Opera (Deluxe Remastered Version)",GBUM71029604,spotify,7tFiyTwD0nx5a1eklYtX2J,354s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J
-"We Are The Champions - Remastered",Queen,"Greatest Hits - We Will Rock You Edition",GBCEE0100128,spotify,5C1N0wFUhhj5FgGKmfVdxy,182s,"2021-09-01 19:08",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5C1N0wFUhhj5FgGKmfVdxy
 "You're My Best Friend - Remastered 2011",Queen,"A Night At The Opera (Deluxe Remastered Version)",GBUM71029609,spotify,4OKf7CcYuw5H2HptkcKxcP,171s,"2021-11-09 02:15",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4OKf7CcYuw5H2HptkcKxcP
 "We Are The Champions - Remastered 2011",Queen,"News Of The World (Deluxe Remastered Version)",GBUM71029619,spotify,7ccI9cStQbQdystvc6TvxD,179s,"2022-04-12 07:59",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7ccI9cStQbQdystvc6TvxD
 "Killer Queen - Remastered 2011",Queen,"Sheer Heart Attack (Deluxe Remastered Version)",GBUM71029606,spotify,7GqWnsKhMtEW0nzki5o0d8,180s,"2022-08-10 17:00",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8
@@ -364,7 +367,7 @@ Home,"Phillip Phillips","The World From The Side Of The Moon (Deluxe)",QMTM61200
 "Cum on Feel the Noize","Quiet Riot","Quiet Riot - Greatest Hits",USSM18300031,spotify,6FBmHx1FuaSnTnnnaThgbF,287s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6FBmHx1FuaSnTnnnaThgbF
 "Soul Bossa Nova","Quincy Jones","Big Band Bossa Nova",USPR36270200,spotify,0Jw3cPBXlGnA6DEJrZSTI0,167s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0Jw3cPBXlGnA6DEJrZSTI0
 "It's The End Of The World As We Know It (And I Feel Fine)",R.E.M.,"Document (R.E.M. No. 5)",USIR38700037,spotify,2oSpQ7QtIKTNFfA08Cy0ku,247s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku
-"Black Betty","Ram Jam","The Very Best Of Ram Jam",USSM10105935,spotify,2ZOTtG7v1OrSNs6EINIGb4,238s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2ZOTtG7v1OrSNs6EINIGb4
+"Black Betty","Ram Jam","Ram Jam",USSM10211288,spotify,6kooDsorCpWVMGc994XjWN,239s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN
 "Blitzkrieg Bop - 2016 Remaster",Ramones,"Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",USRH11601901,spotify,4KcH1ZRV2W1q7Flq0QqC76,134s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76
 "I Wanna Be Sedated",Ramones,"Road to Ruin (40th Anniversary Deluxe Edition)",USRH11802019,spotify,5NoQvINZLBV1wMYPdNmReL,150s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL
 "Justin Timberlake Medley: Here We Go / It's Gonna Be Me / Sexy Back / LoveStoned/ I Think She Knows / What Goes Around...Comes Around... / Pusher Love / Mirrors","Random Voices A Cappella","XOXO RV",USY281616040,spotify,4dnCH8PaDm1gIScYMoqbCj,354s,"2021-11-24 23:07",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4dnCH8PaDm1gIScYMoqbCj
@@ -373,8 +376,8 @@ Home,"Phillip Phillips","The World From The Side Of The Moon (Deluxe)",QMTM61200
 "Give It Away","Red Hot Chili Peppers","Blood Sugar Sex Magik (Deluxe Edition)",USWB19901574,spotify,0uppYCG86ajpV2hSR3dJJ0,283s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0
 "Dani California","Red Hot Chili Peppers","Stadium Arcadium",USWB10600700,spotify,10Nmj3JCNoMeBQ87uw5j8k,282s,"2022-01-14 04:43",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/10Nmj3JCNoMeBQ87uw5j8k
 "Scar Tissue","Red Hot Chili Peppers","Californication (Deluxe Edition)",USWB19900674,spotify,1G391cbiT3v3Cywg8T7DM1,216s,"2022-05-30 00:15",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1
-"Roll with the Changes","REO Speedwagon","You Can Tune a Piano, But You Can't Tuna Fish",USSM17800947,spotify,16x9viSmRS3PII71Pdeowc,336s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/16x9viSmRS3PII71Pdeowc
 "Keep the Fire Burnin'","REO Speedwagon","The Essential REO Speedwagon",USSM18200404,spotify,7sFcJVrWPU9irTtQb9usn0,236s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7sFcJVrWPU9irTtQb9usn0
+"Roll With the Changes","REO Speedwagon","A Decade Of Rock And Roll 1970 to 1980",USSM10025916,spotify,5JeO4WOw1Z3e7BT3U5qzox,335s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5JeO4WOw1Z3e7BT3U5qzox
 "Ready to Go",Republica,Republica,GBARL9600018,spotify,5Qt8U8Suu7MFH1VcJr17Td,301s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5Qt8U8Suu7MFH1VcJr17Td
 "Never Gonna Give You Up","Rick Astley","Whenever You Need Somebody",GBARL9300135,spotify,7GhIk7Il098yCjg4BQjzvb,213s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7GhIk7Il098yCjg4BQjzvb
 "Rock and Roll, Hoochie Koo","Rick Derringer","All American Boy (Expanded Edition)",USSM10021862,spotify,4VDHlRakaVHzHE8PUdcU49,225s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4VDHlRakaVHzHE8PUdcU49
@@ -383,7 +386,7 @@ Home,"Phillip Phillips","The World From The Side Of The Moon (Deluxe)",QMTM61200
 "Livin' la Vida Loca","Ricky Martin","Ricky Martin",NLB639920005,spotify,0Ph6L4l8dYUuXFmb71Ajnd,243s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd
 "Shut Up And Drive",Rihanna,"Good Girl Gone Bad: Reloaded",USUM70734703,spotify,4Tn2llBm1g0UlWctmgPL8Z,212s,"2022-08-26 21:54",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4Tn2llBm1g0UlWctmgPL8Z
 "It Takes Two","Rob Base & DJ EZ Rock","Profilin': The Hits",USAR19900063,spotify,3Yxmpx64AdWAzG3qAD4Dty,302s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty
-Children,"Robert Miles","Children (Dance Vault Mixes)",GBARS9600151,spotify,4wtR6HB3XekEengMX17cpc,243s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc
+"Children - Dream Version","Robert Miles",Dreamland,GBARS9600002,spotify,7cEkyAXkwXCxTR3IKE0XHu,427s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7cEkyAXkwXCxTR3IKE0XHu
 "Simply Irresistible","Robert Palmer","Heavy Nova",GB01A8800001,spotify,0bSr5pybJSlgG5OZH441gF,255s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0bSr5pybJSlgG5OZH441gF
 "Bad Case Of Loving You (Doctor, Doctor)","Robert Palmer",Secrets,USIR27900020,spotify,75zVpdjXwmy6SLr2hDnJYo,192s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/75zVpdjXwmy6SLr2hDnJYo
 "Joyride - Single Version",Roxette,"Don't Bore Us - Get to the Chorus! Roxette's Greatest Hits",SEAMA9079011,spotify,3Skwc4sh1QHUGcWrFBFWSF,242s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3Skwc4sh1QHUGcWrFBFWSF
@@ -444,6 +447,7 @@ Someday,"Sugar Ray",14:59,USAT20902984,spotify,6zeDYmP3ARpURvpK29Q09P,243s,"2021
 A-O-K,"Tai Verdes",A-O-K,USQX92101406,spotify,1v3Ozpbcx2B926aVW0UuXk,174s,"2022-07-14 00:34",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1v3Ozpbcx2B926aVW0UuXk
 "Once in a Lifetime - 2005 Remaster","Talking Heads","Remain in Light (Deluxe Version)",USWB10502869,spotify,38Ngied9rBORlAbLYNCl4k,260s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k
 "Burning Down the House","Talking Heads","Burning Down the House / I Get Wild / Wild Gravity",USWB10901938,spotify,2VNfJpwdEQBLyXajaa6LWT,242s,"2022-08-26 21:54",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2VNfJpwdEQBLyXajaa6LWT
+"Road to Nowhere","Talking Heads","Little Creatures",USWB19900876,spotify,5gS8whHdcpbkdz0qonQZF8,259s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5gS8whHdcpbkdz0qonQZF8
 "Shake It Off","Taylor Swift",1989,USCJY1431349,spotify,5xTtaWoae3wi06K5WfVUUH,219s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH
 Shout,"Tears For Fears","Songs From The Big Chair",GBF088490125,spotify,2gQaQUhDCNGfBVXTvxAmXQ,394s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ
 "Everybody Wants To Rule The World","Tears For Fears","Songs From The Big Chair (Super Deluxe Edition)",GBF088590110,spotify,4RvWPyQ5RL0ao9LPZeSouE,251s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE
@@ -453,10 +457,10 @@ Shout,"Tears For Fears","Songs From The Big Chair",GBF088490125,spotify,2gQaQUhD
 Roam,"The B-52's","Cosmic Thing",USRE18900031,spotify,5fqcIHU6DhQtFKVO5XSdQs,295s,"2021-09-24 01:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5fqcIHU6DhQtFKVO5XSdQs
 "Rock Lobster","The B-52's","The B-52's",USWB19901100,spotify,2Q5wSOwq6BDSu7sSVMNrtT,409s,"2022-05-30 00:15",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2Q5wSOwq6BDSu7sSVMNrtT
 "Walk Like an Egyptian","The Bangles","The Essential Bangles",USSM18500592,spotify,1Jwc3ODLQxtbnS8M9TflSP,205s,"2022-09-10 16:43",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1Jwc3ODLQxtbnS8M9TflSP
-409,"The Beach Boys","Surfin' Safari (Remastered)",USCA20001612,spotify,1gWj5OlKlZmBvtkYxluZux,121s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1gWj5OlKlZmBvtkYxluZux
 "I Get Around (Mono)","The Beach Boys","All Summer Long (Mono & Stereo)",USCA21202039,spotify,3v9xlH6BpmRbqL7hgNJhfT,134s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT
 "Fun, Fun, Fun (Mono)","The Beach Boys","Shut Down, Vol. 2 (Mono & Stereo)",USCA21202015,spotify,5L0L3RyON6g8avnI20uubN,139s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5L0L3RyON6g8avnI20uubN
 "Little Deuce Coupe - Remastered","The Beach Boys","Surfer Girl (Remastered)",USCA20001595,spotify,75WMOzv7195ziyx0qEw1yE,101s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/75WMOzv7195ziyx0qEw1yE
+"409 (Mono)","The Beach Boys","Little Deuce Coupe (Mono & Stereo)",USCA21201996,spotify,1qDM12xsQOm6SQbrM41yZd,121s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1qDM12xsQOm6SQbrM41yZd
 "Drive My Car - Remastered 2009","The Beatles","Rubber Soul (Remastered)",GBAYE0601479,spotify,06ypiqmILMdVeaiErMFA91,149s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/06ypiqmILMdVeaiErMFA91
 "Day Tripper - Remastered 2015","The Beatles","1 (Remastered)",GBUM71505892,spotify,29b2b96jozyD9GPCkOrVLs,169s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/29b2b96jozyD9GPCkOrVLs
 "Ticket To Ride - Remastered 2009","The Beatles","Help! (Remastered)",GBAYE0601471,spotify,7CZiDzGVjUssMSOXrDNYHL,190s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7CZiDzGVjUssMSOXrDNYHL
@@ -471,6 +475,7 @@ Remedy,"The Black Crowes","The Southern Harmony And Musical Companion",USSM19200
 "Shake It Up","The Cars","Shake It Up",USEE18100033,spotify,5OWokvF4QOqMDQ8ByQsm6V,215s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5OWokvF4QOqMDQ8ByQsm6V
 "Good Times Roll","The Cars","The Cars",USEE10170463,spotify,7hVhRCDV100Jq26NGR7adw,226s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7hVhRCDV100Jq26NGR7adw
 "You Might Think","The Cars","Heartbeat City",USEE10170489,spotify,7BvuV4c1BGhaRapcXvRu5z,185s,"2022-02-14 19:40",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7BvuV4c1BGhaRapcXvRu5z
+"Just What I Needed","The Cars","The Cars",USEE17500009,spotify,4alHo6RGd0D3OUbTPExTHN,226s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN
 "The Devil Went Down to Georgia","The Charlie Daniels Band","Million Mile Reflections",USSM19916707,spotify,6gRACp2CvsIhc7hyw8CecQ,215s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6gRACp2CvsIhc7hyw8CecQ
 "The Long Way Around","The Chicks","Taking The Long Way",USSM10601028,spotify,16D1W4BryVlcLI4JcTRFkU,273s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/16D1W4BryVlcLI4JcTRFkU
 "Should I Stay or Should I Go - Remastered","The Clash","Combat Rock (Remastered)",GBARL1200670,spotify,39shmbIHICJ2Wxnk1fPSdz,189s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz
@@ -493,10 +498,11 @@ Chips,"The Edwin Davids Jazz Band","TV Series, Vol. 1 (Themes from TV Series)",F
 "We Got The Beat","The Go-Go's","Beauty And The Beat",USWWW0128900,spotify,5kz9GDBTX846OXwqWoyKzF,153s,"2021-08-03 22:50",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF
 "American Woman","The Guess Who","American Woman",USRC10001083,spotify,3LQPTJEqOfljGBxmpgUnoC,307s,"2021-07-07 20:27",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3LQPTJEqOfljGBxmpgUnoC
 "Hate To Say I Told You So","The Hives","Veni Vidi Vicious",SEVHC0007060,spotify,6xxXrNJnnsQNLdgNk8S4y8,200s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8
+"Long Cool Woman (In a Black Dress) - 1999 Remaster","The Hollies","Distant Light (1999 Remaster)",GBGYU9900019,spotify,5UwbnHhjnbinJH8TefuQfN,199s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5UwbnHhjnbinJH8TefuQfN
 "And We Danced","The Hooters","Super Hits",USSM10105640,spotify,5xkNd7kCRmjT2DxSAYVVyC,228s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5xkNd7kCRmjT2DxSAYVVyC
 Vehicle,"The Ides Of March",Vehicle,USWB10107711,spotify,6hnyQ0YpiO35rutiLLHLmr,178s,"2021-11-09 02:15",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6hnyQ0YpiO35rutiLLHLmr
 Centerfold,"The J. Geils Band","Freeze Frame",USCA28100075,spotify,1ynmMEK1fkyiZ6Z6F3ThEt,217s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt
-ABC,"The Jackson 5",ABC,USMO17082628,spotify,6wDviYDtmSDZ0S6TVMM9Vc,178s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6wDviYDtmSDZ0S6TVMM9Vc
+ABC,"The Jackson 5",ABC,USMO17082628,spotify,6D8kc7RO0rqBLSo2YPflJ5,175s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5
 "STAY (with Justin Bieber)","The Kid LAROI, Justin Bieber","STAY (with Justin Bieber)",USSM12103949,spotify,5HCyWlXZPP0y6Gqq8TgA20,142s,"2022-07-14 00:34",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20
 "Somebody Told Me","The Killers","Hot Fuss",USIR20400195,spotify,6PwjJ58I4t7Mae9xfZ9l9v,197s,"2022-09-10 16:43",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v
 "You Really Got Me","The Kinks","Kinks (Deluxe)",GBAJE6400005,spotify,29SyMC0plk6qw8NMF7lfRL,134s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/29SyMC0plk6qw8NMF7lfRL
@@ -504,7 +510,7 @@ ABC,"The Jackson 5",ABC,USMO17082628,spotify,6wDviYDtmSDZ0S6TVMM9Vc,178s,"2021-0
 "My Sharona","The Knack","Get The Knack",USCA28900153,spotify,1HOMkjp0nHMaTnfAkslCQj,295s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj
 "The Impression That I Get","The Mighty Mighty Bosstones","Let's Face It",USMR19780102,spotify,1ru5R5iSawvuMELqKXxLjS,195s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1ru5R5iSawvuMELqKXxLjS
 "I'm a Believer - 2006 Remaster","The Monkees","More of The Monkees (Deluxe Edition)",USRH10651278,spotify,3G7tRC24Uh09Hmp1KZ7LQ2,167s,"2022-08-26 21:54",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2
-"Your Love","The Outfield","Super Hits",USSM18500264,spotify,5dRQUolXAVX3BbCiIxmSsf,222s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5dRQUolXAVX3BbCiIxmSsf
+"Your Love","The Outfield","Play Deep",USSM10100176,spotify,4oDZ5L8izBals6jKBJDBcX,216s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4oDZ5L8izBals6jKBJDBcX
 "A Million Miles Away","The Plimsouls","Everywhere At Once",USGF18300207,spotify,4jF4kZArkVKvvYXOlplMtA,215s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4jF4kZArkVKvvYXOlplMtA
 "Jump (For My Love)","The Pointer Sisters","Break Out",USRC18303288,spotify,3L9ClO1W5KmebIXTrlKShF,267s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3L9ClO1W5KmebIXTrlKShF
 "I'm So Excited","The Pointer Sisters","So Excited! (Expanded Edition)",USRC18203285,spotify,1ot6jEe4w4hYnsOPjd3xKQ,231s,"2022-09-10 16:43",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ
@@ -517,7 +523,7 @@ ABC,"The Jackson 5",ABC,USMO17082628,spotify,6wDviYDtmSDZ0S6TVMM9Vc,178s,"2021-0
 "What I Like About You","The Romantics","What I Like About You (And Other Romantic Hits)",USSM10020612,spotify,6NdcSEhpGGAYXNnnhGS2s6,175s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6NdcSEhpGGAYXNnnhGS2s6
 "1979 - Remastered 2012","The Smashing Pumpkins","Mellon Collie And The Infinite Sadness (Deluxe Edition)",USVI21200910,spotify,5QLHGv0DfpeXLNFo7SFEy1,266s,"2022-02-14 19:40",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1
 "Gimme Some Lovin' - Single Mix","The Spencer Davis Group","Gimme Some Loving / Blues In F",GBAAN6600008,spotify,3qCHUm73I3o5F1mDEfibzo,179s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3qCHUm73I3o5F1mDEfibzo
-"The Rubberband Man","The Spinners","The Rubberband Man / Now That We're Together",USAT20902284,spotify,13Mzsb8VzRSZ5w3pM48cn6,213s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/13Mzsb8VzRSZ5w3pM48cn6
+"The Rubberband Man","The Spinners","Funky Grooves",USAT20106332,spotify,0FXLQAnvEphQ8ihNRGipGw,215s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0FXLQAnvEphQ8ihNRGipGw
 "Rapper's Delight","The Sugarhill Gang","Rhino Hi-Five: The Sugarhill Gang",USRH10403145,spotify,0FWhGmPVxLI6jOVF0wjALa,427s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0FWhGmPVxLI6jOVF0wjALa
 "Disco Inferno - Single Edit","The Trammps","Rhino Hi-Five: The Trammps",USAT27600010,spotify,22ff60cZy4APp7bzESHLR8,192s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/22ff60cZy4APp7bzESHLR8
 "She's A Beauty - Remastered 1991","The Tubes","Outside Inside",USCA28700982,spotify,7HF88mJXq8DpotZohoW2mo,241s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7HF88mJXq8DpotZohoW2mo
@@ -548,7 +554,7 @@ Africa,TOTO,"Toto IV",USSM19801941,spotify,2374M0fQpWi3dLnB54qaLX,296s,"2021-04-
 "Pride (In The Name Of Love) - Remastered 2009",U2,"The Unforgettable Fire (Remastered)",GBUM70817519,spotify,3dh2LlmeMqKJbzn2WUgt3d,228s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d
 Desire,U2,"Rattle And Hum",GBAAN8890003,spotify,4D01oA1mGouaAT7fubvKRT,179s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4D01oA1mGouaAT7fubvKRT
 "Where The Streets Have No Name - Remastered",U2,"The Joshua Tree (Super Deluxe)",GBUM70709791,spotify,4qgZs0RNjdzKAS22lP0QjY,338s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4qgZs0RNjdzKAS22lP0QjY
-A-Punk,"Vampire Weekend","Vampire Weekend",GBBKS0700527,spotify,1595LW73XBxkRk2ciQOHfr,138s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1595LW73XBxkRk2ciQOHfr
+A-Punk,"Vampire Weekend","Vampire Weekend",GBBKS0700527,spotify,3AydAydLzyyZutA0375XIz,138s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3AydAydLzyyZutA0375XIz
 "Panama - 2015 Remaster","Van Halen","1984 (Remastered)",USWB11403681,spotify,05RgAMGypEvqhNs5hPCbMS,210s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS
 Dreams,"Van Halen",5150,USWB10902263,spotify,2APxH5XbOLDTmW9X5yi6Hw,294s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2APxH5XbOLDTmW9X5yi6Hw
 "Runnin' with the Devil - 2015 Remaster","Van Halen","Van Halen (Remastered)",USWB11403668,spotify,3KhF2YiNpJvGpfiCW45R6D,215s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D
@@ -576,6 +582,7 @@ Dreams,"Van Halen",5150,USWB10902263,spotify,2APxH5XbOLDTmW9X5yi6Hw,294s,"2021-0
 "On the Road Again - Live","Willie Nelson","Greatest Hits (& Some That Will Be)",USSM18000629,spotify,1OmKo4t4Bh95xQI6WGiUR3,153s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1OmKo4t4Bh95xQI6WGiUR3
 "Mustang Sally","Wilson Pickett","The Wicked Pickett",USAT29902210,spotify,5Sz09kaSzvpTC8lgm5W8Mt,188s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt
 "Land of 1000 Dances","Wilson Pickett","The Exciting Wilson Pickett",USAT29902208,spotify,76ICmoJ4PcoMWoooaTxnQs,147s,"2021-06-01 18:49",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs
+"Helen Wheels - Remastered 2010",Wings,"Band On The Run (Archive Collection)",GBCCS1400189,spotify,2EzedhbZ4ivi5bdpKX0WV0,228s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2EzedhbZ4ivi5bdpKX0WV0
 Renegades,"X Ambassadors",VHS,USUM71502643,spotify,0fYVliAYKHuPmECRs1pbRf,195s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf
 "Oh Yeah - Remastered 2005",Yello,"Stella (Remastered 2005)",DEUM70500258,spotify,1iOHLlEsMbgJfYBFWy4TjG,185s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1iOHLlEsMbgJfYBFWy4TjG
 "Owner of a Lonely Heart",Yes,"90125 (Deluxe Version)",USAT20702539,spotify,0GTK6TesV108Jj5D3MHsYb,269s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb
