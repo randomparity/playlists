@@ -1,8 +1,10 @@
 ﻿title,artist,album,isrc,platform,trackId,duration,addedDate,addedBy,url
 99,TOTO,Hydra,USSM19801919,spotify,2R3E4xKmy7lyieBKONkIMT,316s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2R3E4xKmy7lyieBKONkIMT
 99,TOTO,Hydra,USSM19801919,spotify,316s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2R3E4xKmy7lyieBKONkIMT
+"A Christmas To Remember",America,"Holiday Harmony",usx9p0922876,spotify,2MBYTFHZtNEpLWA8mVgfd6,236s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2MBYTFHZtNEpLWA8mVgfd6
 "A Horse with No Name","America, George Martin",America,USWB19901792,spotify,252s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt
 "A Horse with No Name","America, George Martin",America,USWB19901792,spotify,54eZmuggBFJbV7k248bTTt,252s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt
+"Adult Education","Daryl Hall & John Oates","Rock 'N Soul, Part 1 (Expanded Edition)",USRC18007953,spotify,3sIsG7vDZr17BVimMeZZQS,324s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3sIsG7vDZr17BVimMeZZQS
 Africa,TOTO,"Toto IV",USSM19801941,spotify,2374M0fQpWi3dLnB54qaLX,296s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX
 Africa,TOTO,"Toto IV",USSM19801941,spotify,296s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX
 "Afternoon Delight","Starland Vocal Band","Starland Vocal Band",USRZR0491708,spotify,193s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3uLk0uQ4zMS26h89Of8XOD
@@ -62,11 +64,17 @@ Breezin',"George Benson",Breezin',USWB10201610,spotify,342s,"2021-04-15 03:33",s
 "Caribbean Queen (No More Love On the Run)","Billy Ocean","The Very Best of Billy Ocean",GBAHK9700109,spotify,4JEylZNW8SbO4zUyfVrpb7,244s,"2021-10-06 21:22",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4JEylZNW8SbO4zUyfVrpb7
 "Carry Me Away","The Doobie Brothers","Takin' It to the Streets",USWB10105085,spotify,247s,"2022-08-26 21:54",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2vIXT8A4FNqCkht2LlYnu6
 "Carry Me Away","The Doobie Brothers","Takin' It to the Streets",USWB10105085,spotify,2vIXT8A4FNqCkht2LlYnu6,247s,"2022-08-26 21:54",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2vIXT8A4FNqCkht2LlYnu6
+"Carry Me Away","The Doobie Brothers","Takin' It to the Streets",USWB10105085,spotify,2vIXT8A4FNqCkht2LlYnu6,247s,"2022-12-22 21:41",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2vIXT8A4FNqCkht2LlYnu6
 Casablanca,"Bertie Higgins","Just Another Day in Paradise",ushm20694955,spotify,275s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3oNUvyuV0HDwvIQvn7Qa8g
 Casablanca,"Bertie Higgins","Just Another Day in Paradise",ushm20694955,spotify,3oNUvyuV0HDwvIQvn7Qa8g,275s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3oNUvyuV0HDwvIQvn7Qa8g
 "Chain Lightning","Steely Dan","Katy Lied",USMC17447214,spotify,180s,"2022-09-10 16:43",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1UtGIkXG8Y9s3JtSg3CIQp
 "Chain Lightning","Steely Dan","Katy Lied",USMC17447214,spotify,1UtGIkXG8Y9s3JtSg3CIQp,180s,"2022-09-10 16:43",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1UtGIkXG8Y9s3JtSg3CIQp
 "Change Of The Guard","Steely Dan","Can't Buy A Thrill",USMC17347187,spotify,218s,"2022-08-26 21:54",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4nXetPzsp0cG4HAgBW7dXW
+"Christmas Cards","Tenille Townes","Songs for Christmas",USG4X2100046,spotify,2vIxMkWXzJdaDJVKHK4icG,207s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2vIxMkWXzJdaDJVKHK4icG
+"Christmas In California",America,"Holiday Harmony",usx9p0922880,spotify,1oPf1vkT4ezYHthFvgC3AC,204s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1oPf1vkT4ezYHthFvgC3AC
+"Christmas Morning","Al Jarreau","Smooth & Soulful Christmas",USA560702096,spotify,3ShRoxFOnlZXOPPYz4o9jS,250s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3ShRoxFOnlZXOPPYz4o9jS
+"Christmas Must Be Tonight","Daryl Hall & John Oates","Home for Christmas",USDKE0611006,spotify,6L7ALkpOAlKdLC0H6MjT45,267s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6L7ALkpOAlKdLC0H6MjT45
+"Christmas in Love - 45 Version",Firefall,"Christmas In Love / Always [Digital 45]",USAT20904012,spotify,105RlosuA8xU1XNCjbDFiE,165s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/105RlosuA8xU1XNCjbDFiE
 Coconut,"Harry Nilsson","Nilsson Schmilsson",USRC17101021,spotify,232s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4o5GyaeGMgDsrclBsL3au7
 Coconut,"Harry Nilsson","Nilsson Schmilsson",USRC17101021,spotify,4o5GyaeGMgDsrclBsL3au7,232s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4o5GyaeGMgDsrclBsL3au7
 "Cool Change - Remastered 2010","Little River Band","First Under The Wire (Remastered 2010)",USCA21001411,spotify,1RaUxP6LHVAgbmLOn2naLl,313s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1RaUxP6LHVAgbmLOn2naLl
@@ -117,6 +125,8 @@ Dujii,"Kool & The Gang","Live At P.J.'s",USPR37207000,spotify,7lYWY0vw6d1YQSum4F
 "Even the Nights Are Better","Air Supply","Now And Forever",USAR18200001,spotify,237s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/09bRmFRViBORKQ2miwp04P
 "Every Kinda People","Robert Palmer","Double Fun",USIR27800052,spotify,198s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/38E7U60ipLSTVDcPIuVzZw
 "Every Kinda People","Robert Palmer","Double Fun",USIR27800052,spotify,38E7U60ipLSTVDcPIuVzZw,198s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/38E7U60ipLSTVDcPIuVzZw
+"Every Time Christmas Comes Around","Michael McDonald","In The Spirit-A Christmas Album",USMCN0110137,spotify,3uswOASV1ar3pHExzEUrlS,213s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3uswOASV1ar3pHExzEUrlS
+"Everyday Will Be Like a Holiday","Daryl Hall & John Oates","Home for Christmas",USDKE0611004,spotify,48VSR9BQLufQxVcaIJesHg,279s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/48VSR9BQLufQxVcaIJesHg
 "Everything I Own",Bread,"Baby I'm-a Want You",USEE10000092,spotify,187s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA
 "Everything I Own",Bread,"Baby I'm-a Want You",USEE10000092,spotify,52VIdyKqp1pJRSyUQaxKUA,187s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA
 "Everything You Did","Steely Dan","The Royal Scam",USMC17547225,spotify,0awgWi0pDZ2qzxQL75DJtz,236s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0awgWi0pDZ2qzxQL75DJtz
@@ -137,6 +147,7 @@ Georgia,"Boz Scaggs","Silk Degrees",USSM17500563,spotify,428IK8fDAscfRpmavVKJkN,
 "Give Me the Night","George Benson","Give Me the Night",USWB10000902,spotify,5gaUkg5JNk8c4mr2jnpX8H,301s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5gaUkg5JNk8c4mr2jnpX8H
 "Give Me the Night","George Benson","The George Benson Collection",USWB10902424,spotify,223s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/62GYoGszQfROZswLee6W3O
 "Give Me the Night","George Benson","The George Benson Collection",USWB10902424,spotify,62GYoGszQfROZswLee6W3O,223s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/62GYoGszQfROZswLee6W3O
+"God Rest Ye Merry, Gentlemen",Chicago,"Chicago Christmas: What's It Gonna Be, Santa?",USRH10200138,spotify,25EiScOmlIBgok5UAPDUno,203s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/25EiScOmlIBgok5UAPDUno
 "Green Earrings","Steely Dan","The Royal Scam",USMC17547223,spotify,245s,"2022-08-26 21:54",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/34C3UVHdq8Uay5EzUHvJqH
 "Green Earrings","Steely Dan","The Royal Scam",USMC17547223,spotify,34C3UVHdq8Uay5EzUHvJqH,245s,"2022-08-26 21:54",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/34C3UVHdq8Uay5EzUHvJqH
 Gypsy,"Fleetwood Mac","Greatest Hits",USWB19900203,spotify,19Ym5Sg0YyOCa6ao21bdoG,265s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG
@@ -148,6 +159,7 @@ Gypsy,"Fleetwood Mac","Greatest Hits",USWB19900203,spotify,265s,"2021-04-15 03:3
 "Hard Life (Prelude) - Remastered","Little River Band","First Under The Wire (2010 Remaster)",USCA21001413,spotify,164s,"2022-08-26 21:54",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4o52s0SCGGmKmit39DXM5C
 "Hard to Say","Dan Fogelberg","Love Songs",USSM18100034,spotify,0lFIys9PvdEJqTWsS7Ac9y,237s,"2021-12-21 22:59",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0lFIys9PvdEJqTWsS7Ac9y
 "Hard to Say","Dan Fogelberg","Love Songs",USSM18100034,spotify,237s,"2021-12-21 22:59",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0lFIys9PvdEJqTWsS7Ac9y
+"Have Yourself A Merry Little Christmas","Michael McDonald","Season of Peace: The Christmas Collection",QMRSZ1801247,spotify,1GzWSM38F5dFXqOxNVGEW2,152s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1GzWSM38F5dFXqOxNVGEW2
 "Heart Hotels","Dan Fogelberg",Phoenix,USSM19923717,spotify,255s,"2022-08-26 21:54",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2I7wlhRFEesckeIVxZTJL8
 "Heart Of The Night",Poco,Legend,USMC17908377,spotify,295s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E
 "Heart Of The Night",Poco,Legend,USMC17908377,spotify,6fNID7koTl1dZBCs6FmK4E,295s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E
@@ -167,6 +179,7 @@ Him,"Rupert Holmes","Partners In Crime",USMC10000422,spotify,5rMthFHPxRDi4Uxg06i
 "Home At Last","Steely Dan",Aja,USMC17647232,spotify,336s,"2022-09-20 20:38",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2beIrUqv4VIyqqYhnajOyT
 "Honey Hi - 2015 Remaster","Fleetwood Mac","Tusk (Deluxe Edition)",USRH11507784,spotify,166s,"2021-12-21 22:59",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4hitfppPqFmsKsI9GS7IBc
 "Honey Hi - 2015 Remaster","Fleetwood Mac","Tusk (Deluxe Edition)",USRH11507784,spotify,4hitfppPqFmsKsI9GS7IBc,166s,"2021-12-21 22:59",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4hitfppPqFmsKsI9GS7IBc
+"House Full Of Love","Michael McDonald","In The Spirit-A Christmas Album",USMCN0110138,spotify,12lq7RdhOPQSA12VQDfuwX,294s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/12lq7RdhOPQSA12VQDfuwX
 "How 'Bout Us - Single Version",Champaign,"How 'Bout Us (Expanded Edition)",USSM18100819,spotify,199s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/59S5BGYP3tzYd7dccspVdx
 "How 'Bout Us - Single Version",Champaign,"How 'Bout Us (Expanded Edition)",USSM18100819,spotify,59S5BGYP3tzYd7dccspVdx,199s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/59S5BGYP3tzYd7dccspVdx
 "How 'Bout Us",Champaign,"'80s Pop Hits",USSM10605884,spotify,0s4ft4UVLWtpdELSCBnYRy,275s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0s4ft4UVLWtpdELSCBnYRy
@@ -222,6 +235,8 @@ Island,"Gerry Rafferty","City to City",GBAYE7800543,spotify,316s,"2021-10-13 22:
 "Jackie Blue","The Ozark Mountain Daredevils","It'll Shine When It Shines",USUMG0000082,spotify,250s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1R9EHsvzpXwOvlGkgDmE55
 January,Pilot,"Second Flight",GBAYE7400223,spotify,212s,"2022-09-20 20:38",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/37ncw2kChEJzbmmKMzGAoE
 January,Pilot,"Second Flight",GBAYE7400223,spotify,37ncw2kChEJzbmmKMzGAoE,212s,"2022-09-20 20:38",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/37ncw2kChEJzbmmKMzGAoE
+"Jingle Bell Rock - Daryl's Version","Daryl Hall & John Oates","Jingle Bell Rock",USRC10900416,spotify,6pVW5LRWgeLaHudxauOTJU,126s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU
+"Jingle Bells","Peter Cetera","You Just Gotta Love Christmas",USCJE0610419,spotify,5O6vinrEbjcGiBOAEDOyIs,216s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5O6vinrEbjcGiBOAEDOyIs
 JoJo,"Boz Scaggs","Middle Man",USSM19802157,spotify,353s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3tPmepOCcFRoxuFmmRe0Kn
 JoJo,"Boz Scaggs","Middle Man",USSM19802157,spotify,3tPmepOCcFRoxuFmmRe0Kn,353s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3tPmepOCcFRoxuFmmRe0Kn
 JoJo,"Boz Scaggs","My Time: A Boz Scaggs Anthology (1969-1997)",USSM17900273,spotify,2Wtc2rEBd6YJ66qJLCSqHD,352s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2Wtc2rEBd6YJ66qJLCSqHD
@@ -282,6 +297,7 @@ Magic,"Olivia Newton-John","20th Century Masters: The Millennium Collection: Bes
 "Man On The Run - Remastered 2010","Little River Band","First Under The Wire (Remastered 2010)",USCA21001416,spotify,1piaS29UWfGKer7CWk2w0b,258s,"2022-10-08 19:52",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1piaS29UWfGKer7CWk2w0b
 "Man On The Run - Remastered","Little River Band","First Under The Wire (2010 Remaster)",USCA21001416,spotify,258s,"2022-08-26 21:54",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1piaS29UWfGKer7CWk2w0b
 "Man On Your Mind","Little River Band","Greatest Hits",USCA28400099,spotify,246s,"2021-11-09 02:15",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7fsAiUOy63nKXmEyALsbFE
+Maneater,"Daryl Hall & John Oates",H2O,USRC10301821,spotify,7j74lucZ59vqN67Ipe2ZcY,273s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY
 "Midnight Cruiser (In the Style of Steely Dan) [Performance Track with Demonstration Vocals]","Done Again","Midnight Cruiser (In the Style of Steely Dan) [Performance Track with Demonstration Vocals]",USK4W0700345,spotify,264s,"2022-08-26 21:54",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6f618QmPaAuo8bgugUuy6s
 "Midnight Cruiser (In the Style of Steely Dan) [Performance Track with Demonstration Vocals]","Done Again","Midnight Cruiser (In the Style of Steely Dan) [Performance Track with Demonstration Vocals]",USK4W0700345,spotify,6f618QmPaAuo8bgugUuy6s,264s,"2022-08-26 21:54",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6f618QmPaAuo8bgugUuy6s
 "Midnight at the Oasis","Maria Muldaur","Maria Muldaur",USRE10100264,spotify,230s,"2022-08-10 17:00",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5VBcEJ4mtXTmVEJtc7hx2g
@@ -306,14 +322,19 @@ Magic,"Olivia Newton-John","20th Century Masters: The Millennium Collection: Bes
 "Nights Are Forever Without You","England Dan & John Ford Coley","Nights Are Forever",USAT20201191,spotify,4XJhR31yvvrJl99caa0Xpj,171s,"2022-11-15 22:20",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4XJhR31yvvrJl99caa0Xpj
 "Nights Are Forever Without You","England Dan & John Ford Coley","Rhino Hi-Five: England Dan & John Ford Coley",USAT20201191,spotify,171s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5AcmDHW8YnIR7k5wD8e3L5
 "Nights Are Forever Without You","England Dan & John Ford Coley","Rhino Hi-Five: England Dan & John Ford Coley",USAT20201191,spotify,5AcmDHW8YnIR7k5wD8e3L5,171s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5AcmDHW8YnIR7k5wD8e3L5
+"No Child Should Ever Cry On Christmas","Daryl Hall & John Oates","Home for Christmas",USDKE0611003,spotify,6AaZA14T4hRITs8WT5h8eH,244s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6AaZA14T4hRITs8WT5h8eH
 "No Tell Lover - 2002 Remaster",Chicago,"Hot Streets (Expanded & Remastered)",USRH10285540,spotify,0GoT8Ro3hwpyFZfPmg0Wk7,230s,"2022-07-14 00:34",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0GoT8Ro3hwpyFZfPmg0Wk7
 "No Tell Lover - 2002 Remaster",Chicago,"Hot Streets (Expanded & Remastered)",USRH10285540,spotify,230s,"2022-07-14 00:34",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0GoT8Ro3hwpyFZfPmg0Wk7
+"O Come All Ye Faithful",Chicago,"Chicago Christmas: What's It Gonna Be, Santa?",USRH10200141,spotify,3Gl3SB4DT14SiZBIKirUsf,286s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3Gl3SB4DT14SiZBIKirUsf
+"O Tannenbaum","Steve Lukather","The Carols Of Christmas II",USWH19701168,spotify,1dcqQUjKpE1Hb8dAGhNukR,172s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1dcqQUjKpE1Hb8dAGhNukR
+"Oh Come All Ye Faithful","Al Jarreau",Christmas,USRH10802195,spotify,4eKisuoakr2wWfcrL5XQY8,259s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4eKisuoakr2wWfcrL5XQY8
 "Oh Daddy - 2004 Remaster","Fleetwood Mac","Rumours (Super Deluxe)",USWB11301119,spotify,236s,"2021-12-21 22:59",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2wmr2A1ixEx9qViaOMkkkW
 "Oh Daddy - 2004 Remaster","Fleetwood Mac","Rumours (Super Deluxe)",USWB11301119,spotify,2wmr2A1ixEx9qViaOMkkkW,236s,"2021-12-21 22:59",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2wmr2A1ixEx9qViaOMkkkW
 "Oh Diane - 2016 Remaster","Fleetwood Mac","Mirage (Deluxe Edition)",USRH11602236,spotify,159s,"2022-08-26 21:54",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1LFigSqjQ4qrHZszOke4zl
 "Oh Diane - 2016 Remaster","Fleetwood Mac","Mirage (Deluxe Edition)",USRH11602236,spotify,1LFigSqjQ4qrHZszOke4zl,159s,"2022-10-08 19:52",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1LFigSqjQ4qrHZszOke4zl
 "On And On","Stephen Bishop",Careless,USMC17647807,spotify,0Vth3l4XAo8hNYmxjzhr2y,182s,"2022-06-29 23:44",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y
 "On And On","Stephen Bishop",Careless,USMC17647807,spotify,182s,"2022-06-29 23:44",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y
+"On Christmas Morning","Michael McDonald","In The Spirit-A Christmas Album",USMCN0110133,spotify,47p3qYbZpb3yIPWno2dWmc,231s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/47p3qYbZpb3yIPWno2dWmc
 "On the Wing",Crackin',"Special Touch",USWB10703806,spotify,256s,"2022-08-26 21:54",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7emZzRcOoFFWcxIk9rv7x6
 "On the Wing",Crackin',"Special Touch",USWB10703806,spotify,7emZzRcOoFFWcxIk9rv7x6,256s,"2022-10-08 19:52",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7emZzRcOoFFWcxIk9rv7x6
 "One of These Nights - 2013 Remaster",Eagles,"One of These Nights (2013 Remaster)",USEE11300344,spotify,292s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF
@@ -329,6 +350,7 @@ Peg,"Steely Dan",Aja,USMC17647230,spotify,5DQAHkO9U4IZIombHefcqK,240s,"2021-04-1
 "Playin' by the Rules","Michael McDonald","If That's What It Takes",USWB19903127,spotify,300s,"2021-10-13 22:44",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2VPbB0qUgybHw74XxSbq6D
 "Please Come to Boston","Dave Loggins",Apprentice,USSM17500571,spotify,1pfSKTDigM2xnWG2Y0AquA,246s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1pfSKTDigM2xnWG2Y0AquA
 "Please Come to Boston","Dave Loggins",Apprentice,USSM17500571,spotify,246s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1pfSKTDigM2xnWG2Y0AquA
+"Pushin' A Rock","John Oates","Pushin' A Rock",USWCX2200020,spotify,6m8ko8r5Ct4KsVOpzTnpvj,275s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6m8ko8r5Ct4KsVOpzTnpvj
 "Ready for Camarillo",Ambrosia,"Life Beyond L.A.",USWB19902230,spotify,1dOTlLo7fgs8OcnOQpqPqH,295s,"2022-08-26 21:54",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1dOTlLo7fgs8OcnOQpqPqH
 "Ready for Camarillo",Ambrosia,"Life Beyond L.A.",USWB19902230,spotify,295s,"2022-08-26 21:54",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1dOTlLo7fgs8OcnOQpqPqH
 "Real Love","The Doobie Brothers","One Step Closer",USWB10002824,spotify,1NI2i1BjKiVrEYCC0WTug4,259s,"2022-10-08 19:52",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1NI2i1BjKiVrEYCC0WTug4
@@ -363,6 +385,7 @@ Rosanna,TOTO,"Toto IV",USSM18200245,spotify,37BTh5g05cxBIRYMbw8g2T,331s,"2021-04
 "Sailin' the Wind","Loggins & Messina","The Best: Loggins & Messina Sittin' In Again",USSM19914415,spotify,368s,"2021-12-21 22:59",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2Hhp8JcvxM60I25NpGzLyz
 Sailing,"Christopher Cross","Christopher Cross",USWB19901344,spotify,256s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK
 Sailing,"Christopher Cross","Christopher Cross",USWB19901344,spotify,6Hu6dzwlvoyg3zBUC8k4BK,256s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK
+"Santa Claus Is Coming To Town","Peter Cetera","You Just Gotta Love Christmas",USCJE0610414,spotify,6ah0OD74vfFWwT5jGvpwYq,191s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6ah0OD74vfFWwT5jGvpwYq
 "Sara Smile","Daryl Hall & John Oates","Daryl Hall & John Oates (The Silver Album)",USRC17500581,spotify,185s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ
 "Sara Smile","Daryl Hall & John Oates","Daryl Hall & John Oates (The Silver Album)",USRC17500581,spotify,1qjrYozGqc7upUgfN776lZ,185s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ
 "Save Me a Place - 2015 Remaster","Fleetwood Mac","Tusk (2015 Remaster)",USRH11507772,spotify,6Uvp5PZYKjfMsVCWwrYKnI,162s,"2022-10-08 19:52",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6Uvp5PZYKjfMsVCWwrYKnI
@@ -406,6 +429,7 @@ Stars,"Seals and Crofts","The Longest Road",USWB10702799,spotify,359s,"2022-08-2
 "That's Alright - 2016 Remaster","Fleetwood Mac","Mirage (Deluxe Edition)",USRH11602229,spotify,190s,"2022-08-26 21:54",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/01Ad3YljWv9gfMVYpn6cL7
 "That's Enough for Me - 2015 Remaster","Fleetwood Mac","Tusk (2015 Remaster)",USRH11507780,spotify,111s,"2021-12-21 22:59",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5Kp0YrDat1sUhqaJ6MSwvg
 "That's Enough for Me - 2015 Remaster","Fleetwood Mac","Tusk (2015 Remaster)",USRH11507780,spotify,5Kp0YrDat1sUhqaJ6MSwvg,111s,"2021-12-21 22:59",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5Kp0YrDat1sUhqaJ6MSwvg
+"The Best Christmas","Christopher Cross","A Christopher Cross Christmas",USBPS0650045,spotify,5GOKp8N96KHNNhO9tyed0x,250s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5GOKp8N96KHNNhO9tyed0x
 "The Best of My Love - 2013 Remaster",Eagles,"On the Border (2013 Remaster)",USEE11300333,spotify,275s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5MLLuLqPdUlx8bfKtdkLwO
 "The Best of My Love - 2013 Remaster",Eagles,"On the Border (2013 Remaster)",USEE11300333,spotify,5MLLuLqPdUlx8bfKtdkLwO,275s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5MLLuLqPdUlx8bfKtdkLwO
 "The Disco Strangler - 2013 Remaster",Eagles,"The Long Run (2013 Remaster)",USEE11300337,spotify,165s,"2022-09-20 20:38",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/78U90p4TcobvI6uutxiVd9
@@ -418,6 +442,7 @@ Stars,"Seals and Crofts","The Longest Road",USWB10702799,spotify,359s,"2022-08-2
 "The Sad Cafe - 2013 Remaster",Eagles,"The Long Run (2013 Remaster)",USEE11300343,spotify,333s,"2022-08-26 21:54",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2OmmQuGEUq0aDWlbu3qAHw
 "The Things We Do For Love",10cc,"Deceptive Bends",GBF087600005,spotify,208s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6KEWtSOGKpIXGw6l1uJgsR
 "The Things We Do For Love",10cc,"Deceptive Bends",GBF087600005,spotify,6KEWtSOGKpIXGw6l1uJgsR,208s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6KEWtSOGKpIXGw6l1uJgsR
+"This Christmas","Chris Brown","This Christmas - Songs From The Motion Picture",USJI10700772,spotify,3W6PmtGTyLwWBWUYplSWHT,198s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT
 "This Is It","Kenny Loggins","Keep The Fire",USSM10020938,spotify,0YO8KsprTrEUEvJevpI7Na,237s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0YO8KsprTrEUEvJevpI7Na
 "This Is It","Kenny Loggins","Keep The Fire",USSM10020938,spotify,237s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0YO8KsprTrEUEvJevpI7Na
 "Those Shoes - 2013 Remaster",Eagles,"The Long Run (2013 Remaster)",USEE11300340,spotify,13TrgZ4RqtjXd8w9wAuwxE,295s,"2021-12-21 22:59",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/13TrgZ4RqtjXd8w9wAuwxE
@@ -458,6 +483,7 @@ Vahevala,"Loggins & Messina","The Best: Loggins & Messina Sittin' In Again",USSM
 "When You're In Love With A Beautiful Woman","Dr. Hook","Pleasure & Pain",USCA28700091,spotify,1UiKUFbCfgbVjwY8W657Pv,179s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/1UiKUFbCfgbVjwY8W657Pv
 "Whenever I Call You ""Friend"" (feat. Stevie Nicks)","Kenny Loggins, Stevie Nicks",Nightwatch,USSM17800139,spotify,238s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5NCY3uTCovd93aqwbodUhm
 "Whenever I Call You ""Friend"" (feat. Stevie Nicks)","Kenny Loggins, Stevie Nicks",Nightwatch,USSM17800139,spotify,5NCY3uTCovd93aqwbodUhm,238s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5NCY3uTCovd93aqwbodUhm
+"White Christmas","Kenny Loggins",December,USSM19803430,spotify,7L1A7D1x8rXwR7oY78rTvH,233s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/7L1A7D1x8rXwR7oY78rTvH
 "Who's Right, Who's Wrong",Pages,"Future Street",USSM10207926,spotify,259s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5IXfPffHYMM9a7nrHWjh8l
 "Who's Right, Who's Wrong",Pages,"Future Street",USSM10207926,spotify,5IXfPffHYMM9a7nrHWjh8l,259s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5IXfPffHYMM9a7nrHWjh8l
 "Why I Came to California","Leon Ware","Leon Ware",USEE10183100,spotify,250s,"2022-08-10 17:00",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/6jZXAOHmvseRsqxYCbexTJ
@@ -467,6 +493,8 @@ Wildfire,"Michael Martin Murphey","The Best Of Michael Martin Murphey",USCN18400
 Wildfire,"Michael Martin Murphey","The Best Of Michael Martin Murphey",USCN18400040,spotify,737c89v3Zdit8EUyNJ7KeS,308s,"2021-04-15 03:33",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/737c89v3Zdit8EUyNJ7KeS
 "Will It Last","Kenny Loggins","Keep The Fire",USSM10203233,spotify,2JqtVgvXYPa1k9HulcS0ra,356s,"2021-12-06 23:41",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2JqtVgvXYPa1k9HulcS0ra
 "Will It Last","Kenny Loggins","Keep The Fire",USSM10203233,spotify,356s,"2021-12-06 23:41",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/2JqtVgvXYPa1k9HulcS0ra
+"Winter Holidays",America,"Holiday Harmony",QM5QG1708201,spotify,4pmfMYjBH4U4DrUi14lo1W,223s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/4pmfMYjBH4U4DrUi14lo1W
+"Winter Wonderland","Air Supply","The Christmas Album",USAR10000402,spotify,0fiTTNDueBJWDRcVBA35O7,153s,"2022-12-12 22:57",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0fiTTNDueBJWDRcVBA35O7
 "Wkrp In Cincinnati (Karaoke Demonstration With Lead Vocal) (In The Style Of Various)","The Karaoke Channel","The Karaoke Channel - TV Show Theme Songs",USK4W0708914,spotify,0fwtd0T9UvJ9uvQUqxHC3R,44s,"2022-09-10 16:43",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0fwtd0T9UvJ9uvQUqxHC3R
 "Wkrp In Cincinnati (Karaoke Demonstration With Lead Vocal) (In The Style Of Various)","The Karaoke Channel","The Karaoke Channel - TV Show Theme Songs",USK4W0708914,spotify,44s,"2022-09-10 16:43",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/0fwtd0T9UvJ9uvQUqxHC3R
 "World Leave Me Alone",Ambrosia,Ambrosia,USWB19902220,spotify,197s,"2022-09-10 16:43",sj1bdpnkh9q3knr3ss718da1d,https://open.spotify.com/track/5rgl8qkp2BlG4TsqLQLYJb
